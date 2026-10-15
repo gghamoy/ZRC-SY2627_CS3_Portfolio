@@ -1,0 +1,6 @@
+1. What is/are the parent class/es of the Programmer class in the video?
+The parent class of Programmer is Employee, which inherits from Person.
+
+  
+  2. If you were to add a new role called Intern, where would you place it in the inheritance hierarchy? Why?
+I would place Intern under Employee because an intern is a type of employee and can inherit its attributes and methods.
